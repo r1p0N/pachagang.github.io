@@ -1,0 +1,32 @@
+#query-form {
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+}
+
+#query-input {
+
+  margin: 10px 0;
+
+  padding: 8px;
+
+  font-size: 16px;
+
+}
+
+#response {
+
+  margin: 20px 0;
+
+  padding: 8px;
+
+  font-size: 16px;
+
+  background-color: #f0f0f0;
+
+}
+
