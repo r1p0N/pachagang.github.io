@@ -18,7 +18,7 @@ queryForm.addEventListener('submit', async (e) => {
 
       'Content-Type': 'application/json',
 
-      'Authorization': 'Bearer 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',
+      'Authorization': 'Bearer <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>',
 
     },
 
